@@ -1,0 +1,325 @@
+{
+    "dashboard": {
+        "total_unique_customer_mtd" : {
+            "total_customer": 2468798,
+            "month_to_date": 12
+        },
+        "audience_mtd" : {
+            "total_audience": 1268798,
+            "month_to_date": 12
+        },
+        "total_customer_dashboard": {
+            "title": "User Identified", 
+            "total_data": "1660077", 
+            "data": {
+                "label":["Non-Digital Customers","Digital Customers"],
+                "value": ["660000","1000077"],
+                "percentage": ["39","61"]
+            }
+        },
+        "customer_digital_active": {
+            "label": ["2/10","4/10","6/10","8/10","10/10","12/10","14/10","16/10","18/10","20/10","22/10","24/10"],
+            "data": [1000000,4523000,2635000,7000000,5000000,3000000,6000000,4000000,5000000,4000000,3000000,7000000]
+        },
+        "data_source": {
+            "title": "Data Source",
+            "total_data": "141",
+            "data": {
+                "label":["Directed Upload","BigQuery"],
+                "value": ["109","32"]
+            }
+        },
+        "total_destination_account": {
+            "title": "Connected Account",
+            "total_data": "105",
+            "data": {
+                "label":["Google Ads","Meta Ads","Cloud Storage"],
+                "value": ["54","31","20"]
+            }
+        },
+        "recent_audiences": [
+            {
+                "id": "1dfoe0i3j0r23jr0sda",
+                "audience_name": "100k Lending bala-bala",
+                "total_customer": "1408",
+                "audience_description": "100k Lending bala-bala apapund dehakfsd"
+            },
+            {
+                "id": "safioej02noincoijdd",
+                "audience_name": "Independece day - 17% off domestic flight",
+                "total_customer": "35",
+                "audience_description": "Independece day - 17% off domestic flight description"
+            },
+            {
+                "id": "320492390fu893nfu99",
+                "audience_name": "7.7 Mens wear lending bala-bala",
+                "total_customer": "12",
+                "audience_description": "7.7 Mens wear lending bala-bala description"
+            }
+        ],
+        "customer_funnel": [
+            {
+                "funnel_label": "login",
+                "funnel_value": 1120,
+                "funnel_percentage": 50
+            },
+            {
+                "funnel_label": "product_view",
+                "funnel_value": 789,
+                "funnel_percentage": 30
+            },
+            {
+                "funnel_label": "product_add_to_chart",
+                "funnel_value": 356,
+                "funnel_percentage": 20
+            },
+            {
+                "funnel_label": "product_purchase",
+                "funnel_value": 122,
+                "funnel_percentage": 10
+            }
+        ]
+    },
+    "customers": {
+        "total_unique_customer_mtd" : {
+            "total_customer": 1268798,
+            "month_to_date": 12
+        },
+        "digital_platform_mtd" : {
+            "total_customer": 1268798,
+            "month_to_date": 12
+        },
+        "customer_occupation":{
+            "label": ["Pelajar/Mahasiswa","Pegawai Negeri Sipil","Pensiunan","Rumah Tangga","Pedagang","Karyawan Swasta","Pegawai BUMN","Pegawai BUMD"],
+            "data": [1000000,4523000,2635000,7000000,5000000,3000000,6000000,4000000],
+            "percentage": ["10","40","20","70","50","30","60","10"]
+        },
+        "customer_region": {
+            "label": ["Jawa","Sumatera","Bali","Kalimantan","Sulawesi","Nusa Tenggara","Maluku","Papua"],
+            "data": [59,21,7,5,4,2,1,1],
+            "percentage": [59,21,7,5,4,2,1,1]
+        },
+        "customer_age": {
+            "label": ["8-24","25-34","35-44","45-54","55-64", "65 and older"],
+            "data": [37,28,22,14,4,2],
+            "percentage": [37,28,22,14,4,2]
+        },
+        "customer_gender": {
+            "title": "Total Customer", 
+            "total_data": "434998",
+            "data": {
+                "label":["Male","Female"],
+                "value": ["6284","3657"],
+                "percentage": ["63","37"]
+            }
+        }
+    },
+    "customer_profile_search": [
+        {
+            "pinnacle_id": "d44b7b8d-0530-4604-9036-da47c6cf39f6",
+            "name": "Kevin De Roland",
+            "phone_number": "081122334456",
+            "email": "kdroland@gmail.com",
+            "user_id": "D0001"
+        },
+        {
+            "pinnacle_id": "d4604--90344b7b8d-05306-da47c6cf39f6",
+            "name": "Andre Bimbo",
+            "phone_number": "081212808000",
+            "email": "andrebimbo@gmail.com",
+            "user_id": "D0002"
+        },
+        {
+            "pinnacle_id": "c6cf39f6-d44b7b8d-0530-4604-9036-da47",
+            "name": "Youka Dena",
+            "phone_number": "081234567890",
+            "email": "youdena@gmail.com",
+            "user_id": "D0003"
+        }
+    ],
+    "customer_profile_detail": [
+        {
+            "pinnacle_id": "d44b7b8d-0530-4604-9036-da47c6cf39f6",
+            "name": "Kevin De Roland",
+            "phone_number": "081122334456",
+            "email": "kdroland@gmail.com",
+            "user_id": "D0001",
+            "birth_date": "03/09/95",
+            "identity_card": "123123123",
+            "nationality": "Indonesia",
+            "province": "Jakarta",
+            "city": "Jakarta Selatan",
+            "marital_status": "Menikah",
+            "monthly_income": 9000000,
+            "monthly_spending": 4000000,
+            "occupation": "Fullstack",
+            "customer_source": "Non Digital",
+            "gender": "Laki-Laki",
+            "home_address": "Pamulang",
+            "age": 29,
+            "created_at": "",
+            "custom_field": { 
+                "others": "lalala",
+                "custom_2": "spectacular" 
+            },
+            "ios_device": {
+                "status": true,
+                "version": "17.1",
+                "advertising_id": "xxxxxxx-xxxx-xxx"
+            },
+            "android_device": {
+                "status": true,
+                "version": "14.2",
+                "advertising_id": "xxxxxxx-xxxx-xxx"
+            },
+            "last_active": "xxxx-xx-xx",
+            "last_known_city": "",
+            "last_product_view": "",
+            "last_product_purchase": "",
+            "total_session":"",
+            "average_session_duration": "xxx",
+            "most_product_view": "Levi's",
+            "completeness": {
+                "title": "Your Profile Completeness", 
+                "total_data": 115, 
+                "percentage": 80
+            },
+            "credit_score": {
+                "total_data": 100, 
+                "percentage": 80
+            }
+        },
+        {
+            "pinnacle_id": "d4604--90344b7b8d-05306-da47c6cf39f6",
+            "name": "Andre Bimbo",
+            "phone_number": "081212808000",
+            "email": "andrebimbo@gmail.com",
+            "user_id": "D0002",
+            "birth_date": "03/09/95",
+            "identity_card": "123123123",
+            "nationality": "Indonesia",
+            "province": "Jakarta",
+            "city": "Jakarta Selatan",
+            "marital_status": "Menikah",
+            "monthly_income": 9000000,
+            "monthly_spending": 4000000,
+            "occupation": "Fullstack",
+            "customer_source": "Non Digital",
+            "gender": "Laki-Laki",
+            "home_address": "Pamulang",
+            "age": 29,
+            "created_at": "",
+            "custom_field": { 
+                "interest": "Automotive",
+                "postal_code": "17880" 
+            },
+            "ios_device": {
+                "status": true,
+                "version": "17.1",
+                "advertising_id": "xxxxxxx-xxxx-xxx"
+            },
+            "android_device": {
+                "status": true,
+                "version": "14.2",
+                "advertising_id": "xxxxxxx-xxxx-xxx"
+            },
+            "advertising_id": "xxxxx",
+            "last_active": "xxxx-xx-xx",
+            "last_known_city": "",
+            "last_product_view": "",
+            "last_product_purchase": "",
+            "total_session":"",
+            "average_session_duration": "xxx",
+            "most_product_view": "Nike Drunk 2002",
+            "completeness": {
+                "title": "Your Profile Completeness", 
+                "total_data": 115, 
+                "percentage": 90
+            },
+            "credit_score": {
+                "total_data": 100, 
+                "percentage": 60
+            }
+        },
+        {
+        "pinnacle_id": "c6cf39f6-d44b7b8d-0530-4604-9036-da47",
+            "name": "Youka Dena",
+            "phone_number": "081234567890",
+            "email": "youdena@gmail.com",
+            "user_id": "D0003",
+            "birth_date": "03/09/95",
+            "identity_card": "123123123",
+            "nationality": "Indonesia",
+            "province": "Jakarta",
+            "city": "Jakarta Selatan",
+            "marital_status": "Menikah",
+            "monthly_income": 9000000,
+            "monthly_spending": 4000000,
+            "occupation": "Fullstack",
+            "customer_source": "Non Digital",
+            "gender": "Laki-Laki",
+            "home_address": "Pamulang",
+            "age": 29,
+            "created_at": "",
+            "custom_field": { 
+                "others": "lalala",
+                "custom_2": "spectacular" 
+            },
+            "ios_device": {
+                "status": true,
+                "version": "17.1",
+                "advertising_id": "xxxxxxx-xxxx-xxx"
+            },
+            "android_device": {
+                "status": true,
+                "version": "14.2",
+                "advertising_id": "xxxxxxx-xxxx-xxx"
+            },
+            "advertising_id": "xxxxx",
+            "last_active": "xxxx-xx-xx",
+            "last_known_city": "",
+            "last_product_view": "",
+            "last_product_purchase": "",
+            "total_session":"",
+            "average_session_duration": "xxx",
+            "most_product_view": "Adidas Bag",
+            "completeness": {
+                "title": "Your Profile Completeness", 
+                "total_data": 115, 
+                "percentage": 50
+            },
+            "credit_score": {
+                "total_data": 100, 
+                "percentage": 45
+            }
+        }
+    ],
+    "audience": {
+
+    },
+    "sources": [
+        {
+            "id": "sdfasfdsiajfneic",
+            "name": "Sample BQ 1",
+            "datasets": "dataset-sample-1",
+            "project_id": "2398ridnkajn2oiej2o34sad",
+            "source_data": "test-connection",
+            "type": "Scheduled",
+            "schedule": "09/11/2023",
+            "status": "success"
+        },
+        {
+            "id": "sldjfnslkdjfnlni",
+            "name": "Sample BQ 2",
+            "datasets": "dataset-sample-2",
+            "project_id": "lsdjf0239e0dn29und32i8",
+            "source_data": "test-connection",
+            "type": "Scheduled",
+            "schedule": "15/12/2023",
+            "status": "fail"
+        }
+    ],
+    "destination": {
+        
+    }
+}
